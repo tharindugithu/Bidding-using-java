@@ -1,0 +1,3 @@
+C000001,abc@123,Apple.org,apple@gmail.com
+C000002,123@abc,Google.org,google@gmail.com
+C000003,123,Amezon,amezon@gmail.com
